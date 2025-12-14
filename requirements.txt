@@ -1,2 +1,6 @@
 pytest
+sqlalchemy
 paramiko
+pymysql / psycopg2 / cx_Oracle
+requests
+pandas
