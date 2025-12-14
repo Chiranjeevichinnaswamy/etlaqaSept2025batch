@@ -1,4 +1,6 @@
 pytest
+pytest-rerunfailures
+pytest-xdist
 sqlalchemy
 paramiko
 pymysql 
