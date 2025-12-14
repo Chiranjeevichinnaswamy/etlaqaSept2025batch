@@ -6,3 +6,5 @@ paramiko
 pymysql 
 requests
 pandas
+boto3
+
